@@ -13,4 +13,6 @@ To make things get fixed faster, you should write the steps to reproduce said bu
 
 “Additional Information” section should contain IDs of every spell, item, game objects, etc. You need to add them via link: https://tbcdb.com/. Additionally, you should show here evidences that this is indeed a bug, not an intended action.
 
+It is very important to provide as much data as possible so we can spend more time fixing your issue instead of trying to figure out what you are communicating. Screenshots or other visuals are highly recommended! 
+
 Reports that do not meet requirements listed above can be closed without further investigation.

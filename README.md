@@ -1,5 +1,5 @@
 # TBC5ManTracker
-Bug Tracker for TBC 5 Man
+Bug Tracker for TBC 5 Man www.tbc5man.com
 
 Report should be named in a way that would identify the problem at the first sight. You have to write what’s the problem about in square brackets (which raid, class, etc.). For example: [Warrior] Sweeping Strikes, [Black Temple - Mother Shahraz] Adds deal too much damage, [Warsong Gulch] wrong flag respawn timer.
 

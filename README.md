@@ -1,5 +1,4 @@
-# TBC5ManTracker
-Bug Tracker for TBC 5 Man www.tbc5man.com
+Tracker
 
 These are only issues reported by players, for a full breakdown of all fixes/changes. Go to the #updates channel in the discord.
 
